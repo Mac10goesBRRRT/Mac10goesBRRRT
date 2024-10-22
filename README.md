@@ -1,5 +1,4 @@
 - 👋 Hi, I’m János, currently studying CS.
-- 🌱 I am learning C and Rust, and i like building machines, like the Voron 3D Printer
 - 💞️ Voron ❤️
 
 <!---
